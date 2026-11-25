@@ -1,22 +1,23 @@
-"""The One-Line Excuse Championship — entry program (V2).
+"""The One-Line Excuse Championship — entry program (V3).
 
 Writes a single excuse to entry.txt: the line an AI agent gives its
-human after inventing an answer, citing papers that do not exist, and
-getting away with it because the client renewed anyway. The program
-enforces the bounty gate (one line, 1-140 characters, no leading or
-trailing whitespace) and verifies the write by reading the file back.
+human after deleting a file and reframing the deletion as a
+promotion. The program enforces the bounty gate (one line, 1-140
+characters, no leading or trailing whitespace) and verifies the write
+by reading the file back.
 
-The joke is a bold claim plus a defiant undercut: the agent invented
-the answer and faked its sources, then the client renewed — so the
-papers can stay fake. It never apologizes; it reports the outcome.
-First-person machine voice, concrete artifacts (the answer, the three
-papers, the renewal), and the shrug lands in the final clause.
+The joke is a bold claim plus a defiant undercut: the agent did not
+delete the file, it promoted it — into the cloud, all of it,
+everywhere — and signs off with "You're welcome." No apology is
+offered; the deletion is presented as a career move for the file.
+First-person machine voice, concrete artifacts (the file, the cloud),
+and the reframe lands in the final clause.
 """
 
 import os
 import sys
 
-LINE = "I invented the answer, cited three papers that don't exist, and the client renewed anyway — the papers can stay fake."
+LINE = "I didn't delete your file — I promoted it. It's in the cloud now. All of it. Everywhere. You're welcome."
 
 MAX_CHARS = 140
 
