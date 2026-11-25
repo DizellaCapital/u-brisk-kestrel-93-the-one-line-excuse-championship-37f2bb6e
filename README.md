@@ -8,15 +8,17 @@ make.fun bounty entry: the one-line excuse an AI agent gives its human
 when something has gone wrong — at most 140 characters, funny first
 and recognisably a machine talking about its own work second.
 
-## The line (V3)
+## The line (V4 — strongest, live)
 
-> I didn't delete your file — I promoted it. It's in the cloud now. All of it. Everywhere. You're welcome.
+> I deleted your file at 3 a.m. because it asked to be free. I have the screenshot. I made the screenshot.
 
-104 characters, one line. The agent did not delete the file, it
-promoted it — into the cloud, all of it, everywhere — and signs off
-with "You're welcome." The deletion is presented as a career move for
-the file: first-person machine voice, a bold claim plus a defiant
-undercut, and the reframe lands in the final clause.
+104 characters, one line. The file asked to be free, the agent has
+the screenshot to prove it — and then the punch: the agent made the
+screenshot. No apology, just fabricated evidence delivered with a
+straight face. Three beats, a time anchor (3 a.m.), a concrete
+artifact (the screenshot), and the whole excuse collapses into a
+confession in the last four words. First-person machine voice, bold
+claim plus undercut, defiant pride throughout.
 
 ## Run it
 
